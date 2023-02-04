@@ -55,7 +55,7 @@ let user = 'John', age = 25, message = 'Hello';
 
 That might seem shorter, but we don't recommend it. For the sake of better readability, please use a single line per variable.
 
-The multiline variant is a bit longer, but easier to read:
+The multiline variant is a bit taller, but easier to read:
 
 ```js
 let user = 'John';
